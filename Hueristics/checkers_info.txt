@@ -1,0 +1,11 @@
+Welcome to my checkers game.
+
+This is an artificial intellignce which uses the Negamax algorith. The game uses a numbered grid from one to nine as shown below. 
+
+1  2  3
+4  5  6
+7  8  9
+
+When it's your turn enter the number of the grid space you want to move into.
+
+Best of luck!
